@@ -1,4 +1,4 @@
-Customer_Shopping_Dataa# Istanbul Shopping Data Analysis
+# Istanbul Shopping Data Analysis
 
 ## Project Overview
 
